@@ -1,0 +1,25 @@
+Name:
+PID:
+Date:
+
+1. (1pt) Approximately how long did you spend on this PA?
+I had do more in the of this PA due to not understanding my main\
+function less time. Thus was confused on how to do testing which a good knowledge\
+of the scope of usage for my program. Therefore i spent 21 hours on this assignment but\
+I'm glad if I'm being honest I feel as though I'm finally gaining understanding of Java \
+versus the first time I took the intro course for the language 4 years ago now.
+2. (3pt) What is something that you think you did well on this PA?
+The testing I found it in the immediate future to be more beneifical especially with the \
+habits I have developed with the intent of having bugs. Then fixing after the fact thus I spent\
+more time on the question then the others although a hoping I haven't made too many
+concessions in the othter problems during the process.
+3. (3pt) What is something that you struggled with on this PA?
+I'm still confused on the references of the Lists and even more so now\
+with the circircularly linked structure. Being defined by modulus in the psoition of the nodes\
+although that may just be my weaker math background getting confused on the implication of\
+using modulus to define your head and tails with n length arrays.
+4. (1pt) Would you rather have done PA 0 and PA 1 together in one assignment, or did it help you to have them as separate assignments? 
+This is the same question from last week so I'm not entirely sure to what degree\
+my input on the matter will have an effect. But I personally still found it helpful provided\
+more time for ensuring your environment works which can be considered by some to \
+be the hardest part of coding.
