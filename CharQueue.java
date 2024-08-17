@@ -96,6 +96,20 @@ public class CharQueue {
         length++;
     }
 
+    // Expand the capacity of the queue
+    private void expandCapacity() {
+        int newCapacity = capacity * 2;
+        char[] newArray = new char[newCapacity];
+        for (int i = 0; i < length; i++) {
+            newArray[i] = circularArray[(front + i) % capacity];
+        }
+        circularArray = newArray;
+        front = 0;
+        rear = length - 1;
+        capacity = newCapacity;
+    }
+
+
     /*
     * Access the "first" element of the circular array
     * @return give the data at the front position
