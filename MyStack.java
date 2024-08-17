@@ -28,10 +28,10 @@ public class MyStack {
     * */
     public MyStack(int capacity) throws IllegalArgumentException {
         if (capacity < 1) {
-            throw IllegalArgumentException;
+            new IllegalArgumentException("Capacity must be at least 1");
 
         }
-        this.capacity = capcity;
+        this.capacity = capacity;
         this.stackArray = new String[capacity];
         this.top = -1;
 
